@@ -116,9 +116,4 @@
 <h2 align="center">😂 Programming Joke</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Joke-Kenapa%20programmer%20nggak%20bisa%20pacaran%3F%20Karena%20terus%20ngoding%20perasaan-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joke-Programmer%20itu%20kayak%20loop%2C%20kalo%20udah%20jatuh%20sekali%2C%20ulang%20lagi-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joke-Galau%3F%20Coba%20debug%20hati%2C%20mungkin%20ada%20bug%20di%20logika-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joke-Aku%20nembak%20dia%20pake%20%22if%20she%20loves%20me%22%2C%20eh%20ternyata%20false-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joke-Terjebak%20friendzone%20karena%20kebanyakan%20%23include%20<friend>-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joke-Tiap%20ketemu%20kamu%20berasa%20kayak%20infinite%20loop%2C%20nggak%20ada%20break-nya-blue?style=for-the-badge" />
 </div>
