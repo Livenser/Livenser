@@ -1,6 +1,6 @@
 <!-- Add the MSI logo background image -->
 <p align="center">
-  <img src="https://image-1.uhdpaper.com/wallpaper/msi-logo-background-hd-wallpaper-uhdpaper.com-108@1@i.jpg" alt="MSI Logo Background" width="100%">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/msi-logo-background.jpg" alt="MSI Logo Background" width="100%">
 </p>
 
 <!-- Add the greeting header -->
