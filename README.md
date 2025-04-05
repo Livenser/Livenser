@@ -27,18 +27,13 @@
   <img src="https://komarev.com/ghpvc/?username=Livenser&label=Visitors&color=0e75b6&style=flat" alt="visitor count"/>
 </div>
 
----
+<hr>
 
 <!-- 🔧 Skills -->
 <h2 align="center">🧠 My Skill Set</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma,bash,vscode,ps" />
 </div>
-
-<!-- Tambahan Photoshop -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
-</p>
 
 <!-- 🔧 Currently Learning -->
 <h2 align="center">📚 Currently Learning</h2>
@@ -80,7 +75,6 @@
 </p>
 
 <!-- Programming Joke -->
-<!-- Programming Jokes -->
 <h2 align="center">😂 Programming Jokes</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Joke-Kenapa%20programmer%20nggak%20bisa%20pacaran%3F%20Karena%20terus%20ngoding%20perasaan-blue?style=for-the-badge" /><br>
