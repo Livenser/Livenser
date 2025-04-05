@@ -44,6 +44,7 @@
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
 </div>
 
@@ -111,8 +112,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Livenser&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-<!-- Joke (in Bahasa Indonesia) -->
-<h2 align="center">😂 Programming Joke (Indonesia)</h2>
+<!-- Programming Joke -->
+<h2 align="center">😂 Programming Joke</h2>
 <div align="center">
-  <img src="https://readme-quote.vercel.app/api?quote=Kenapa%20programmer%20nggak%20pernah%20takut%20gelap%3F%20Karena%20mereka%20sudah%20terbiasa%20hidup%20dalam%20terminal.&author=AruvuX" alt="Joke ID" />
+  <img src="https://img.shields.io/badge/Joke-Kenapa%20programmer%20nggak%20bisa%20pacaran%3F%20Karena%20terus%20ngoding%20perasaan-blue?style=for-the-badge" />
 </div>
