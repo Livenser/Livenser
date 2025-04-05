@@ -44,7 +44,6 @@
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
 </div>
 
@@ -70,7 +69,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
 <br/>
@@ -112,8 +111,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Livenser&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-<!-- Joke -->
-<h2 align="center">😂 Programming Joke</h2>
+<!-- Joke (in Bahasa Indonesia) -->
+<h2 align="center">😂 Programming Joke (Indonesia)</h2>
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+  <img src="https://readme-quote.vercel.app/api?quote=Kenapa%20programmer%20nggak%20pernah%20takut%20gelap%3F%20Karena%20mereka%20sudah%20terbiasa%20hidup%20dalam%20terminal.&author=AruvuX" alt="Joke ID" />
 </div>
