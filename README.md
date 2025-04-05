@@ -32,8 +32,13 @@
 <!-- 🔧 Skills -->
 <h2 align="center">🧠 My Skill Set</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,figma,bash,vscode,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma,bash,vscode" />
 </div>
+
+<!-- Tambahan Photoshop -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+</p>
 
 <!-- 🔧 Currently Learning -->
 <h2 align="center">📚 Currently Learning</h2>
