@@ -48,14 +48,6 @@
 
 <!-- Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
-<style>
-  a img {
-    transition: transform 0.3s ease-in-out;
-  }
-  a:hover img {
-    transform: scale(1.1);
-  }
-</style>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Social Media -->
   <div style="display: flex; gap: 10px;">
