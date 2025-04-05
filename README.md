@@ -35,8 +35,27 @@
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma,bash,vscode,ps" />
 </div>
 
+<!-- Featured Projects -->
+<h2 align="center">📂 Featured Projects</h2>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/Livenser/Project1">
+    <img src="https://img.shields.io/badge/Project%201-0078D6?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Livenser/Project2">
+    <img src="https://img.shields.io/badge/Project%202-FF5733?style=for-the-badge" />
+  </a>
+</div>
+
 <!-- Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
+<style>
+  a img {
+    transition: transform 0.3s ease-in-out;
+  }
+  a:hover img {
+    transform: scale(1.1);
+  }
+</style>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Social Media -->
   <div style="display: flex; gap: 10px;">
@@ -68,6 +87,36 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Livenser&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
   </p>
 </details>
+
+<!-- Language Stats -->
+<details>
+  <summary><b>📊 Language Stats</b> (Click to Expand)</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livenser&layout=compact&theme=gruvbox" />
+  </p>
+</details>
+
+<!-- Activity Graph -->
+<details>
+  <summary><b>📅 Activity Graph</b> (Click to Expand)</summary>
+  <p align="center">
+    <img src="https://activity-graph.github.io/graph?username=Livenser&theme=gruvbox&bg_color=ffffff&hide_border=true" />
+  </p>
+</details>
+
+<!-- Support Me -->
+<h2 align="center">💖 Support Me</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Livenser"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+
+<!-- Music I'm Listening To -->
+<h2 align="center">🎵 Music I'm Listening To</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/yourusername">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=gruvbox" />
+  </a>
+</p>
 
 <!-- Programming Jokes -->
 <details>
