@@ -96,28 +96,6 @@
   </p>
 </details>
 
-<!-- Activity Graph -->
-<details>
-  <summary><b>📅 Activity Graph</b> (Click to Expand)</summary>
-  <p align="center">
-    <img src="https://activity-graph.github.io/graph?username=Livenser&theme=gruvbox&bg_color=ffffff&hide_border=true" />
-  </p>
-</details>
-
-<!-- Support Me -->
-<h2 align="center">💖 Support Me</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Livenser"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
-
-<!-- Music I'm Listening To -->
-<h2 align="center">🎵 Music I'm Listening To</h2>
-<p align="center">
-  <a href="https://open.spotify.com/user/yourusername">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=gruvbox" />
-  </a>
-</p>
-
 <!-- Programming Jokes -->
 <details>
   <summary><b>😂 Programming Jokes</b> (Click to Expand)</summary>
@@ -129,3 +107,9 @@
     <img src="https://img.shields.io/badge/Joke-Aku%20ngoding%20kamu...%20eh%20ternyata%20kamu%20udah%20di%20commit%20orang%20lain-blue?style=for-the-badge" />
   </p>
 </details>
+
+<!-- Support Me -->
+<h2 align="center">💖 Support Me</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Livenser"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
