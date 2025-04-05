@@ -80,11 +80,12 @@
 </p>
 
 <!-- Programming Joke -->
+<!-- Programming Jokes -->
 <h2 align="center">😂 Programming Jokes</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Joke-Kenapa%20programmer%20nggak%20bisa%20pacaran%3F%20Karena%20terus%20ngoding%20perasaan-blue?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Joke-Kenapa%20bug%20dianggap%20teman%20baik%3F%20Karena%20selalu%20ikut%20pas%20ngoding-green?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Joke-Aku%20ngerasa%20kayak%20while(true)%20aja...%20terjebak%20di%20loop%20yang%20tak%20berujung-orange?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Joke-Pacarku%20kayak%20Java%2C%20terlalu%20berat%20buat%20jalanin%20di%20hatiku-red?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Joke-Hidup%20itu%20kayak%20debugging%2C%20kadang%20salahnya%20di%20kita%20sendiri-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Joke-Ngoding%20itu%20gampang...%20sampai%20error%20pertama%20datang-blue?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Joke-Kalau%20hidup%20punya%20debugger%2C%20udah%20gue%20trace%20dari%20lahir-blue?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Joke-Gue%20nggak%20overthinking%2C%20cuma%20lagi%20while%20(true)%20di%20kepala-blue?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Joke-Aku%20ngoding%20kamu...%20eh%20ternyata%20kamu%20udah%20di%20commit%20orang%20lain-blue?style=for-the-badge" />
 </p>
