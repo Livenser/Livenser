@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-Hello! I'm **Abdul-Wahab**, a tech enthusiast passionate about coding, web development, and gaming. I enjoy building innovative solutions and collaborating with like-minded developers.
+Hello! I'm **Livenser**, a tech enthusiast passionate about coding, web development, and gaming. I enjoy building innovative solutions and collaborating with like-minded developers.
 
 💡 **About Me:**
 - Currently working on **foodie**, a project focused on food-related applications.
@@ -29,33 +29,11 @@ Below are some of the technologies I work with regularly:
 
 ---
 
-## Projects
-
-Here are some of my notable projects:
-
-### 1. **Foodie**
-- A platform for discovering and sharing food recipes.
-- Built using **Flutter** and integrated with **Firebase** for real-time data handling.
-- Features include user authentication, recipe search, and social sharing.
-
-### 2. **Personal Portfolio**
-- A personal portfolio website showcasing my skills and projects.
-- Built using **React** and styled with **Tailwind CSS**.
-- Hosted on **Vercel**.
-
-### 3. **Blog Application**
-- A blog application built with **Django**.
-- Features include user authentication, post creation, and comment sections.
-- Deployed on **Heroku**.
-
----
-
 ## Contact Me
 
 Feel free to connect with me:
 
 - **Email**: mailwahab247@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ---
