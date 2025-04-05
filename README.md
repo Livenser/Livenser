@@ -1,15 +1,75 @@
+# Welcome to my GitHub Profile!
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CcK8g2kgu2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AruvuXZ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BexFuyu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AruvuX) 
+Hello! I'm **Abdul-Wahab**, a tech enthusiast passionate about coding, web development, and gaming. I enjoy building innovative solutions and collaborating with like-minded developers.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Livenser&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Livenser&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Livenser&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+💡 **About Me:**
+- Currently working on **foodie**, a project focused on food-related applications.
+- Learning **Angular** and **Django** to expand my skill set.
+- Open to collaborating on **Flutter** projects.
+- Always eager to discuss **Flutter**, **Firebase**, and **Node.js**.
+- Reach out at **mailwahab247@gmail.com**.
+- Fun Fact: Developer by day, avid gamer by night!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Livenser&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills and Technologies
+
+Below are some of the technologies I work with regularly:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Projects
+
+Here are some of my notable projects:
+
+### 1. **Foodie**
+- A platform for discovering and sharing food recipes.
+- Built using **Flutter** and integrated with **Firebase** for real-time data handling.
+- Features include user authentication, recipe search, and social sharing.
+
+### 2. **Personal Portfolio**
+- A personal portfolio website showcasing my skills and projects.
+- Built using **React** and styled with **Tailwind CSS**.
+- Hosted on **Vercel**.
+
+### 3. **Blog Application**
+- A blog application built with **Django**.
+- Features include user authentication, post creation, and comment sections.
+- Deployed on **Heroku**.
+
+---
+
+## Contact Me
+
+Feel free to connect with me:
+
+- **Email**: mailwahab247@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+---
+
+## Stats
+
+Here are some stats about my GitHub activity:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackDagger007&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+---
+
+## Thanks for Visiting!
+
+Thank you for checking out my profile. Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just say hi!
