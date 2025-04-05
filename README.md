@@ -35,15 +35,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma,bash,vscode,ps" />
 </div>
 
-<!-- Currently Learning -->
-<details>
-  <summary><b>📚 Currently Learning</b> (Click to Expand)</summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CyberSecurity-red?style=for-the-badge" />
-  </p>
-</details>
-
 <!-- Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
