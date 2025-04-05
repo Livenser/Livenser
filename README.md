@@ -35,17 +35,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma,bash,vscode,ps" />
 </div>
 
-<!-- Featured Projects -->
-<h2 align="center">📂 Featured Projects</h2>
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/Livenser/Project1">
-    <img src="https://img.shields.io/badge/Project%201-0078D6?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Livenser/Project2">
-    <img src="https://img.shields.io/badge/Project%202-FF5733?style=for-the-badge" />
-  </a>
-</div>
-
 <!-- Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
